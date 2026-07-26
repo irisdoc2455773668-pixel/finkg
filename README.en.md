@@ -14,18 +14,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/irisdoc2455773668-pixel/finkg/releases"><strong>🎬 View Demo →</strong></a>
+</p>
+
+<p align="center">
   <a href="README.md">中文</a> | <a href="README.en.md">English</a>
 </p>
 
-<div align="center">
-  <a href="demo/finkg-demo.gif">
-    <img src="demo/finkg-demo.gif" alt="Finkg Demo" width="700"/>
-  </a>
-  <br/>
-  <em>System overview: Dashboard · Market · News · Graph · Narrative · API Docs</em>
-</div>
-
-<br/>
 
 ---
 

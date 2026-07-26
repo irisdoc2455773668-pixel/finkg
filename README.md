@@ -17,15 +17,10 @@
   <strong>Financial Narrative Intelligence Platform</strong> —— 融合金融、自然语言处理与知识图谱的叙事智能分析系统
 </p>
 
-<div align="center">
-  <a href="demo/finkg-demo.gif">
-    <img src="demo/finkg-demo.gif" alt="Finkg Demo" width="700"/>
-  </a>
-  <br/>
-  <em>系统运行界面全景 | Dashboard · 市场 · 资讯 · 图谱 · 叙事 · API 文档</em>
-</div>
+<p align="center">
+  <a href="https://github.com/irisdoc2455773668-pixel/finkg/releases"><strong>🎬 查看演示 Demo →</strong></a>
+</p>
 
-<br/>
 
 ---
 
