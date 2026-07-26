@@ -10,8 +10,22 @@
 </p>
 
 <p align="center">
+  <a href="README.en.md">English</a> | <a href="README.md">中文</a>
+</p>
+
+<p align="center">
   <strong>Financial Narrative Intelligence Platform</strong> —— 融合金融、自然语言处理与知识图谱的叙事智能分析系统
 </p>
+
+<div align="center">
+  <a href="demo/finkg-demo.gif">
+    <img src="demo/finkg-demo.gif" alt="Finkg Demo" width="700"/>
+  </a>
+  <br/>
+  <em>系统运行界面全景 | Dashboard · 市场 · 资讯 · 图谱 · 叙事 · API 文档</em>
+</div>
+
+<br/>
 
 ---
 
@@ -440,7 +454,7 @@ Finkg/
 
 ![微信扫码联系作者](wechat-qr.jpg)
 
-**扫码联系作者** —— 欢迎加入 Finkg 社区，交流想法、反馈问题或参与贡献！
+**扫码联系作者** —— 交个朋友或洽谈合作
 
 你也可以通过以下方式联系我们：
 - **提交 Issue**：在 GitHub 仓库提交功能请求或 Bug 报告
