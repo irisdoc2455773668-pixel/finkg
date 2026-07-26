@@ -1,0 +1,21 @@
+{
+  "rss_sources": [
+    {"name": "Reuters - Business", "url": "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best", "lang": "en", "cat": "business", "region": "us", "political_leaning": "western_mainstream", "reliability": 0.9, "enabled": true},
+    {"name": "CNBC - Top News", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "lang": "en", "cat": "business", "region": "us", "political_leaning": "western_financial_press", "reliability": 0.8, "enabled": true},
+    {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "lang": "en", "cat": "economy", "region": "eu", "political_leaning": "western_mainstream", "reliability": 0.85, "enabled": true},
+    {"name": "SCMP - Business", "url": "https://www.scmp.com/rss/91/feed", "lang": "en", "cat": "business", "region": "hk", "political_leaning": "independent", "reliability": 0.8, "enabled": true},
+    {"name": "Nikkei Asia", "url": "https://asia.nikkei.com/rss/feed/nar", "lang": "en", "cat": "business", "region": "jp", "political_leaning": "independent", "reliability": 0.85, "enabled": true},
+    {"name": "人民网", "url": "http://www.people.com.cn/rss/politics.xml", "lang": "zh", "cat": "politics", "region": "cn", "political_leaning": "state_media", "reliability": 0.7, "enabled": true},
+    {"name": "新华网", "url": "http://www.news.cn/politics/xhll.xml", "lang": "zh", "cat": "politics", "region": "cn", "political_leaning": "state_media", "reliability": 0.7, "enabled": true},
+    {"name": "36氪", "url": "https://36kr.com/feed", "lang": "zh", "cat": "technology", "region": "cn", "political_leaning": "independent", "reliability": 0.75, "enabled": true},
+    {"name": "华尔街见闻", "url": "https://wallstreetcn.com/rss/news/global.xml", "lang": "zh", "cat": "business", "region": "cn", "political_leaning": "financial_press", "reliability": 0.75, "enabled": true},
+    {"name": "第一财经", "url": "https://www.yicai.com/feed", "lang": "zh", "cat": "business", "region": "cn", "political_leaning": "financial_press", "reliability": 0.75, "enabled": true},
+    {"name": "凤凰财经", "url": "https://finance.ifeng.com/rss/news.xml", "lang": "zh", "cat": "business", "region": "cn", "political_leaning": "independent_leaning", "reliability": 0.65, "enabled": true}
+  ],
+  "web_sources": [
+    {"name": "证券时报", "url": "https://www.stcn.com/", "lang": "zh", "cat": "business", "region": "cn", "political_leaning": "state_media", "selector": "a", "base_url": "https://www.stcn.com/", "encoding": "utf-8", "min_len": 12, "fetch_body": false, "reliability": 0.7, "enabled": true},
+    {"name": "新浪财经", "url": "https://finance.sina.com.cn/", "lang": "zh", "cat": "economy", "region": "cn", "political_leaning": "commercial", "selector": "a", "base_url": "", "encoding": "gb2312", "min_len": 12, "fetch_body": false, "reliability": 0.65, "enabled": true},
+    {"name": "同花顺", "url": "https://stock.10jqka.com.cn/", "lang": "zh", "cat": "business", "region": "cn", "political_leaning": "commercial", "selector": "a", "base_url": "", "encoding": "gbk", "min_len": 12, "fetch_body": false, "reliability": 0.65, "enabled": true},
+    {"name": "东方财富", "url": "https://finance.eastmoney.com/", "lang": "zh", "cat": "economy", "region": "cn", "political_leaning": "commercial", "selector": "a", "base_url": "", "encoding": "gbk", "min_len": 12, "fetch_body": false, "reliability": 0.65, "enabled": true}
+  ]
+}
